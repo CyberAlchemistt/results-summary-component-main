@@ -27,4 +27,6 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- JSON Data
+- JS
+- HTML manipulation with JS from JSON data
+- JSON
